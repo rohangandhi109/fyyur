@@ -1,9 +1,0 @@
-Clone or download project from github (https://github.com/udacity/FSND)
-CD into project folder
-Create a virtual environment: $ py -m venv env
-Activate virtual environment: $ env\Scripts\activate
-Install flask: $ pip install flask
-Install flask-sqlalchemy: $ pip install flask-sqlalchemy
-Install project dependencies: $ pip install -r requirements.txt
-Start app: $ python app.py
-Go to homepage: http://localhost:5000
