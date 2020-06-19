@@ -44,8 +44,8 @@ Your job is to build out the data models to power the API endpoints for the Fyyu
 
 Overall:
 
-- Models are located in the `MODELS` section of `app.py`.
-- Controllers are also located in `app.py`.
+- Models are located in the `models.py`.
+- Controllers are located in `app.py`.
 - The web frontend is located in `templates/`, which builds static assets deployed to the web server at `static/`.
 - Web forms for creating data are located in `form.py`
 
